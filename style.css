@@ -1,0 +1,26 @@
+
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.button{
+    border: 2px groove #87cefb;
+    border-radius: 10px;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 10px;
+}
+h1{
+    background: linear-gradient(to bottom, #ffcc00 4%, #ff0000 55%);
+    text-transform: uppercase;
+    background:linear-gradient() ;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}
+button{
+    background: linear-gradient(to bottom, #0066ff 65%, #3399ff 100%);    
+    color: white;
+    font-size: 20px;
+}
